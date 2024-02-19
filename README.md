@@ -1,4 +1,4 @@
 # younus-demo
 This is my first Git Repository
 <br>
-Author- Md Younus (Terminal)
+Author- Md Younus (EIE)
